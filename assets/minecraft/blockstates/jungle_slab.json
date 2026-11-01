@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom,waterlogged=false": {
+      "model": "minecraft:block/jungle_slab"
+    },
+    "type=top,waterlogged=false": {
+      "model": "minecraft:block/jungle_slab_top"
+    },
+    "type=double,waterlogged=false": {
+      "model": "minecraft:block/jungle_double_custom"
+    }
+  }
+}
