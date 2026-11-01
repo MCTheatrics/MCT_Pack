@@ -1,0 +1,20 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/iron_ingot"
+    },
+    "entries": [
+        { "threshold": 1, "model": { "type": "model", "model": "mctcore:item/citystuff/atm" } },
+        { "threshold": 2, "model": { "type": "model", "model": "mctcore:item/citystuff/barricade" } },
+        { "threshold": 3, "model": { "type": "model", "model": "mctcore:item/citystuff/metroentrance" } },
+        { "threshold": 4, "model": { "type": "model", "model": "mctcore:item/citystuff/streetlight" } },
+        { "threshold": 5, "model": { "type": "model", "model": "mctcore:item/citystuff/trafficcone" } },
+        { "threshold": 6, "model": { "type": "model", "model": "mctcore:item/citystuff/trashcan" } },
+        { "threshold": 7, "model": { "type": "model", "model": "mctcore:item/citystuff/trashcontainer" } },
+        { "threshold": 8, "model": { "type": "model", "model": "mctcore:item/citystuff/bench" } }
+    ] 
+  } 
+}

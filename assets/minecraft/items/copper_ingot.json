@@ -1,0 +1,16 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/copper_ingot"
+    },
+    "entries": [
+        { "threshold": 1, "model": { "type": "model", "model": "mctcore:item/spotlight/spotlight_model" } },
+        { "threshold": 2, "model": { "type": "model", "model": "mctcore:item/other/flag" } },
+        { "threshold": 3, "model": { "type": "model", "model": "mctcore:item/spotlight/spotlight_2" } },
+        { "threshold": 4, "model": { "type": "model", "model": "mctcore:item/spotlight/spotlight_3" } }
+    ] 
+  } 
+}

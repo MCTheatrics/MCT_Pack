@@ -1,0 +1,20 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/gold_ingot"
+    },
+    "entries": [
+        { "threshold": 1, "model": { "type": "model", "model": "mctcore:item/instruments/drumset" } },
+        { "threshold": 2, "model": { "type": "model", "model": "mctcore:item/instruments/electricpiano" } },
+        { "threshold": 3, "model": { "type": "model", "model": "mctcore:item/instruments/guitar" } },
+        { "threshold": 4, "model": { "type": "model", "model": "mctcore:item/instruments/mic_desk_pop" } },
+        { "threshold": 5, "model": { "type": "model", "model": "mctcore:item/instruments/mic_stage" } },
+        { "threshold": 6, "model": { "type": "model", "model": "mctcore:item/instruments/microphone" } },
+        { "threshold": 7, "model": { "type": "model", "model": "mctcore:item/instruments/trombone" } },
+        { "threshold": 8, "model": { "type": "model", "model": "mctcore:item/instruments/trumpet" } }
+    ] 
+  } 
+}
