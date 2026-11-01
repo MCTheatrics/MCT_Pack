@@ -2,7 +2,7 @@
   "providers": [
 {
             "type": "bitmap",
-            "file": "mctcore:ranks/smallcaps.png",
+            "file": "mct_core:ranks/smallcaps.png",
             "ascent": 7,
             "chars": [
                 "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
