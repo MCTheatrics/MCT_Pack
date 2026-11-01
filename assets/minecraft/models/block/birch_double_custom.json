@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "minecraft:block/birch_double_slab_top",
+    "side": "minecraft:block/birch_double_slab"
+  }
+}
