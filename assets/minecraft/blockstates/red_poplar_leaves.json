@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "": [
+		{ "model": "block/red_poplar_leaves1" },
+		{ "model": "block/red_poplar_leaves2" },
+		{ "model": "block/red_poplar_leaves3" },
+		{ "model": "block/red_poplar_leaves4" },
+		{ "model": "block/red_poplar_leaves5" },
+		{ "model": "block/red_poplar_leaves6" }
+		]
+    }
+}
