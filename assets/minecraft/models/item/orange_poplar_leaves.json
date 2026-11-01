@@ -1,0 +1,8 @@
+{
+	"parent": "item/cherry_leaves",
+	"textures": {
+		"0": "block/orange_poplar_leaves_bush1",
+		"1": "block/orange_poplar_leaves",
+		"3": "block/orange_poplar_leaves_bush1_dark"
+	}
+}
