@@ -1,0 +1,9 @@
+{
+    "parent": "block/leaves3_notint",
+    "textures": {
+        "all": "block/yellow_poplar_leaves_wavy",
+		"bush": "block/yellow_poplar_leaves_bush1",
+		"dark_bush": "block/yellow_poplar_leaves_bush1_dark",
+		"particle": "block/yellow_poplar_leaves"
+    }
+}
