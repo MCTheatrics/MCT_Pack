@@ -65,14 +65,7 @@
             "chars": ["ꀌ"]
         },
         
-        {
-            "type": "bitmap",
-            "file": "mct_core:ranks/choreographer.png",
-            "ascent": 42,
-            "height": 62,
-            "chars": ["ᚠ"]
-            
-        },
+        
         
         {
             "type": "bitmap",
