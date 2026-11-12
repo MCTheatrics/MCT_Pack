@@ -2,7 +2,7 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "minecraft-theatrics:item/mct_masks"
+		"1": "mctcore:item/mct/other/mct_masks"
 	},
 	"elements": [
 		{
