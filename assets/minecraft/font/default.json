@@ -2,7 +2,7 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "mct_core:ranks/director.png",
+            "file": "mctcore:ranks/director.png",
             "ascent": 7,
             "height": 7,
             "chars": ["ꀀ"]
@@ -10,7 +10,7 @@
 
         {
             "type": "bitmap",
-            "file": "mct_core:ranks/coordinator.png",
+            "file": "mctcore:ranks/coordinator.png",
             "ascent": 7,
             "height": 7,
             "chars": ["ꀁ"]
@@ -18,7 +18,7 @@
 
         {
             "type": "bitmap",
-            "file": "mct_core:ranks/lead.png",
+            "file": "mctcore:ranks/lead.png",
             "ascent": 7,
             "height": 7,
             "chars": ["ꀆ"]
@@ -26,7 +26,7 @@
 
         {
             "type": "bitmap",
-            "file": "mct_core:ranks/team-member.png",
+            "file": "mctcore:ranks/team-member.png",
             "ascent": 7,
             "height": 7,
             "chars": ["ꀈ"]
@@ -34,7 +34,7 @@
 
         {
             "type": "bitmap",
-            "file": "mct_core:ranks/company.png",
+            "file": "mctcore:ranks/company.png",
             "ascent": 7,
             "height": 7,
             "chars": ["ꀊ"]
@@ -42,7 +42,7 @@
 
         {
             "type": "bitmap",
-            "file": "mct_core:ranks/character.png",
+            "file": "mctcore:ranks/character.png",
             "ascent": 7,
             "height": 7,
             "chars": ["ꌔ"]
@@ -50,7 +50,7 @@
 
         {
             "type": "bitmap",
-            "file": "mct_core:ranks/cast.png",
+            "file": "mctcore:ranks/cast.png",
             "ascent": 7,
             "height": 7,
             "chars": ["ꃐ"]
@@ -59,7 +59,7 @@
         
         {
             "type": "bitmap",
-            "file": "mct_core:ranks/guest.png",
+            "file": "mctcore:ranks/guest.png",
             "ascent": 7,
             "height": 7,
             "chars": ["ꀌ"]
@@ -69,7 +69,7 @@
         
         {
             "type": "bitmap",
-            "file": "mct_core:ranks/star.png",
+            "file": "mctcore:ranks/star.png",
             "ascent": 11,
             "height": 11,
             "chars": ["佄"]
@@ -77,7 +77,7 @@
 
         {
             "type": "bitmap",
-            "file": "mct_core:ranks/check_mark.png",
+            "file": "mctcore:ranks/check_mark.png",
             "ascent": 11,
             "height": 11,
             "chars": ["亡"]
@@ -85,7 +85,7 @@
 
         {
             "type": "bitmap",
-            "file": "mct_core:ranks/cross_mark.png",
+            "file": "mctcore:ranks/cross_mark.png",
             "ascent": 11,
             "height": 11,
             "chars": ["亢"]
@@ -93,7 +93,7 @@
 
         {
             "type": "bitmap",
-            "file": "mct_core:ranks/left_arrow.png",
+            "file": "mctcore:ranks/left_arrow.png",
             "ascent": 11,
             "height": 11,
             "chars": ["亣"]
@@ -101,7 +101,7 @@
 
         {
             "type": "bitmap",
-            "file": "mct_core:ranks/right_arrow.png",
+            "file": "mctcore:ranks/right_arrow.png",
             "ascent": 11,
             "height": 11,
             "chars": ["交"]
@@ -109,7 +109,7 @@
 
         {
             "type": "bitmap",
-            "file": "mct_core:ranks/chat_bubble_silver.png",
+            "file": "mctcore:ranks/chat_bubble_silver.png",
             "ascent": 11,
             "height": 11,
             "chars": ["亥"]
@@ -117,7 +117,7 @@
 
         {
             "type": "bitmap",
-            "file": "mct_core:ranks/exclamation_gold.png",
+            "file": "mctcore:ranks/exclamation_gold.png",
             "ascent": 11,
             "height": 11,
             "chars": ["亦"]
@@ -125,7 +125,7 @@
 
         {
             "type": "bitmap",
-            "file": "mct_core:ranks/exclamation_silver.png",
+            "file": "mctcore:ranks/exclamation_silver.png",
             "ascent": 8,
             "height": 11,
             "chars": ["产"]
@@ -133,7 +133,7 @@
 
         {
             "type": "bitmap",
-            "file": "mct_core:ranks/question_red.png",
+            "file": "mctcore:ranks/question_red.png",
             "ascent": 8,
             "height": 11,
             "chars": ["亨"]
@@ -141,21 +141,21 @@
 
         {
             "type": "bitmap",
-            "file": "mct_core:ranks/coin_gold.png",
+            "file": "mctcore:ranks/coin_gold.png",
             "ascent": 8,
             "height": 11,
             "chars": ["亩"]
         },  
         {
             "type": "bitmap",
-            "file": "mct_core:ranks/logo.png",
+            "file": "mctcore:ranks/logo.png",
             "ascent": 42,
             "height": 62,
             "chars": ["ꡥ"]
         },
         {
             "type": "bitmap",
-            "file": "mct_core:ranks/crew.png",
+            "file": "mctcore:ranks/crew.png",
             "ascent": 7,
             "height": 7,
             "chars": ["ꀠ"]
